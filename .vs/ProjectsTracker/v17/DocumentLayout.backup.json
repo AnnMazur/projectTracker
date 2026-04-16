@@ -3,24 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\middleware\\securityheadersmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\middleware\\securityheadersmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\middleware\\timingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\middleware\\timingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\configs\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\configs\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\projectstracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\projectstracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\middleware\\ratelimitingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\middleware\\ratelimitingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\middleware\\trustedoriginsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\middleware\\trustedoriginsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\configs\\configurationloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\configs\\configurationloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\middleware\\timingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\middleware\\timingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\enums\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\enums\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\dto\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\dto\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\dto\\createprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\dto\\createprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,14 +83,6 @@
       "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\abstractions\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\abstractions\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\abstractions\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,16 +91,8 @@
       "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\abstractions\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\dto\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\dto\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\dto\\createprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\dto\\createprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\enums\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\enums\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\projectstracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\projectstracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\enums\\taskitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|c:\\users\\aimazur\\source\\repos\\projectstracker\\projectstracker\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86BCCF09-8CFF-4789-86E1-F3C805F624A7}|ProjectsTracker\\ProjectsTracker.csproj|solutionrelative:projectstracker\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,49 +118,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 286,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectsTracker\\Program.cs",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Program.cs",
-              "RelativeToolTip": "ProjectsTracker\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:40:22.813Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectsTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\appsettings.json",
+              "RelativeToolTip": "ProjectsTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T14:16:25.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrustedOriginsMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\TrustedOriginsMiddleware.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Middleware\\TrustedOriginsMiddleware.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\TrustedOriginsMiddleware.cs",
+              "RelativeToolTip": "ProjectsTracker\\Middleware\\TrustedOriginsMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:24:12.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProjectsTracker.csproj",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\ProjectsTracker.csproj",
-              "RelativeDocumentMoniker": "ProjectsTracker\\ProjectsTracker.csproj",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\ProjectsTracker.csproj",
-              "RelativeToolTip": "ProjectsTracker\\ProjectsTracker.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-27T11:25:40.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "ProjectsTracker\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "ProjectsTracker\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAFAAAAAAAAAA==",
+              "Title": "RateLimitingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\RateLimitingMiddleware.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Middleware\\RateLimitingMiddleware.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\RateLimitingMiddleware.cs",
+              "RelativeToolTip": "ProjectsTracker\\Middleware\\RateLimitingMiddleware.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwHYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:42:32.547Z",
+              "WhenOpened": "2026-04-14T14:25:38.928Z",
               "EditorCaption": ""
             },
             {
@@ -143,7 +179,7 @@
               "RelativeDocumentMoniker": "ProjectsTracker\\Middleware\\LoggingMiddleware.cs",
               "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\LoggingMiddleware.cs",
               "RelativeToolTip": "ProjectsTracker\\Middleware\\LoggingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T06:42:35.724Z",
               "EditorCaption": ""
@@ -151,14 +187,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TimingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\TimingMiddleware.cs",
-              "RelativeDocumentMoniker": "ProjectsTracker\\Middleware\\TimingMiddleware.cs",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\TimingMiddleware.cs",
-              "RelativeToolTip": "ProjectsTracker\\Middleware\\TimingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Configs\\AppConfig.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Configs\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Configs\\AppConfig.cs",
+              "RelativeToolTip": "ProjectsTracker\\Configs\\AppConfig.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:42:39.442Z",
+              "WhenOpened": "2026-04-14T14:21:58.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecurityHeadersMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\SecurityHeadersMiddleware.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Middleware\\SecurityHeadersMiddleware.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\SecurityHeadersMiddleware.cs",
+              "RelativeToolTip": "ProjectsTracker\\Middleware\\SecurityHeadersMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:26:12.768Z",
               "EditorCaption": ""
             },
             {
@@ -167,120 +216,100 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TasksController.cs",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Controllers\\TasksController.cs",
-              "RelativeDocumentMoniker": "ProjectsTracker\\Controllers\\TasksController.cs",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Controllers\\TasksController.cs",
-              "RelativeToolTip": "ProjectsTracker\\Controllers\\TasksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:44:45.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProjectsController.cs",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Controllers\\ProjectsController.cs",
-              "RelativeDocumentMoniker": "ProjectsTracker\\Controllers\\ProjectsController.cs",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Controllers\\ProjectsController.cs",
-              "RelativeToolTip": "ProjectsTracker\\Controllers\\ProjectsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Program.cs",
+              "RelativeToolTip": "ProjectsTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:43:14.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ITaskService.cs",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Abstractions\\ITaskService.cs",
-              "RelativeDocumentMoniker": "ProjectsTracker\\Abstractions\\ITaskService.cs",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Abstractions\\ITaskService.cs",
-              "RelativeToolTip": "ProjectsTracker\\Abstractions\\ITaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:43:32.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProjectService.cs",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Services\\ProjectService.cs",
-              "RelativeDocumentMoniker": "ProjectsTracker\\Services\\ProjectService.cs",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Services\\ProjectService.cs",
-              "RelativeToolTip": "ProjectsTracker\\Services\\ProjectService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:41:48.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IProjectService.cs",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Abstractions\\IProjectService.cs",
-              "RelativeDocumentMoniker": "ProjectsTracker\\Abstractions\\IProjectService.cs",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Abstractions\\IProjectService.cs",
-              "RelativeToolTip": "ProjectsTracker\\Abstractions\\IProjectService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:43:28.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IProjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Abstractions\\IProjectRepository.cs",
-              "RelativeDocumentMoniker": "ProjectsTracker\\Abstractions\\IProjectRepository.cs",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Abstractions\\IProjectRepository.cs",
-              "RelativeToolTip": "ProjectsTracker\\Abstractions\\IProjectRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:43:23.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateTaskRequest.cs",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\DTO\\CreateTaskRequest.cs",
-              "RelativeDocumentMoniker": "ProjectsTracker\\DTO\\CreateTaskRequest.cs",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\DTO\\CreateTaskRequest.cs",
-              "RelativeToolTip": "ProjectsTracker\\DTO\\CreateTaskRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:43:05.858Z",
+              "WhenOpened": "2026-03-06T06:40:22.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Tests\\Tests.cs",
+              "RelativeToolTip": "ProjectsTracker\\Tests\\Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:28:28.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigurationLoader.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Configs\\ConfigurationLoader.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Configs\\ConfigurationLoader.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Configs\\ConfigurationLoader.cs",
+              "RelativeToolTip": "ProjectsTracker\\Configs\\ConfigurationLoader.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwKAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:23:06.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "ProjectsTracker\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:42:32.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Services\\ProjectService.cs",
+              "RelativeToolTip": "ProjectsTracker\\Services\\ProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:41:48.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TaskService.cs",
               "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Services\\TaskService.cs",
               "RelativeDocumentMoniker": "ProjectsTracker\\Services\\TaskService.cs",
               "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Services\\TaskService.cs",
               "RelativeToolTip": "ProjectsTracker\\Services\\TaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:41:55.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T06:41:55.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Repository\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Repository\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Repository\\ProjectRepository.cs",
+              "RelativeToolTip": "ProjectsTracker\\Repository\\ProjectRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:42:04.775Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "CreateProjectRequest.cs",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\DTO\\CreateProjectRequest.cs",
-              "RelativeDocumentMoniker": "ProjectsTracker\\DTO\\CreateProjectRequest.cs",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\DTO\\CreateProjectRequest.cs",
-              "RelativeToolTip": "ProjectsTracker\\DTO\\CreateProjectRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Title": "TimingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\TimingMiddleware.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Middleware\\TimingMiddleware.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Middleware\\TimingMiddleware.cs",
+              "RelativeToolTip": "ProjectsTracker\\Middleware\\TimingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:42:59.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T06:42:39.442Z"
             },
             {
               "$type": "Document",
@@ -292,12 +321,107 @@
               "RelativeToolTip": "ProjectsTracker\\Enums\\ProjectStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:42:54.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T06:42:54.279Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "CreateTaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\DTO\\CreateTaskRequest.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\DTO\\CreateTaskRequest.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\DTO\\CreateTaskRequest.cs",
+              "RelativeToolTip": "ProjectsTracker\\DTO\\CreateTaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:43:05.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateProjectRequest.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\DTO\\CreateProjectRequest.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\DTO\\CreateProjectRequest.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\DTO\\CreateProjectRequest.cs",
+              "RelativeToolTip": "ProjectsTracker\\DTO\\CreateProjectRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:42:59.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "ProjectsTracker\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:44:45.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "ProjectsTracker\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:43:14.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Abstractions\\ITaskService.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Abstractions\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Abstractions\\ITaskService.cs",
+              "RelativeToolTip": "ProjectsTracker\\Abstractions\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:43:32.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Abstractions\\IProjectService.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Abstractions\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Abstractions\\IProjectService.cs",
+              "RelativeToolTip": "ProjectsTracker\\Abstractions\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:43:28.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Abstractions\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "ProjectsTracker\\Abstractions\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Abstractions\\IProjectRepository.cs",
+              "RelativeToolTip": "ProjectsTracker\\Abstractions\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:43:23.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProjectsTracker.csproj",
+              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\ProjectsTracker.csproj",
+              "RelativeDocumentMoniker": "ProjectsTracker\\ProjectsTracker.csproj",
+              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\ProjectsTracker.csproj",
+              "RelativeToolTip": "ProjectsTracker\\ProjectsTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T11:25:40.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "TaskItemStatus.cs",
               "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Enums\\TaskItemStatus.cs",
               "RelativeDocumentMoniker": "ProjectsTracker\\Enums\\TaskItemStatus.cs",
@@ -305,12 +429,11 @@
               "RelativeToolTip": "ProjectsTracker\\Enums\\TaskItemStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:42:51.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T06:42:51.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "TaskPriority.cs",
               "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Enums\\TaskPriority.cs",
               "RelativeDocumentMoniker": "ProjectsTracker\\Enums\\TaskPriority.cs",
@@ -318,12 +441,11 @@
               "RelativeToolTip": "ProjectsTracker\\Enums\\TaskPriority.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:42:47.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T06:42:47.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "ProjectsTracker\\Models\\TaskItem.cs",
@@ -331,12 +453,11 @@
               "RelativeToolTip": "ProjectsTracker\\Models\\TaskItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:42:24.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T06:42:24.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Models\\Project.cs",
               "RelativeDocumentMoniker": "ProjectsTracker\\Models\\Project.cs",
@@ -344,29 +465,15 @@
               "RelativeToolTip": "ProjectsTracker\\Models\\Project.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:42:18.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Repository\\ProjectRepository.cs",
-              "RelativeDocumentMoniker": "ProjectsTracker\\Repository\\ProjectRepository.cs",
-              "ToolTip": "C:\\Users\\aimazur\\source\\repos\\ProjectsTracker\\ProjectsTracker\\Repository\\ProjectRepository.cs",
-              "RelativeToolTip": "ProjectsTracker\\Repository\\ProjectRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:42:04.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T06:42:18.19Z"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             }
           ]
         }

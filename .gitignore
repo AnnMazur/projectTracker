@@ -1,0 +1,21 @@
+# Visual Studio temporary files
+.vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Logs
+*.log
+*.txt
+
+# IDE specific
+.idea/
+.vscode/

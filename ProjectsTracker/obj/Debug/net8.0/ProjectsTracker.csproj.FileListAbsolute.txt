@@ -26,10 +26,10 @@ C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\s
 C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\Projects.8551AB73.Up2Date
 C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.dll
 C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\refint\ProjectsTracker.dll
 C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.pdb
 C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.genruntimeconfig.cache
 C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\ref\ProjectsTracker.dll
+C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.sourcelink.json

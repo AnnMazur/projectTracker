@@ -1,3 +1,4 @@
+using ProjectsTracker.Config;
 using System.ComponentModel.DataAnnotations;
 using System.Text.Json;
 
@@ -7,11 +8,13 @@ public class ExceptionMiddleware
 {
     private readonly RequestDelegate _next;
     private readonly ILogger<ExceptionMiddleware> _logger;
+    private readonly AppConfig _config;
 
-    public ExceptionMiddleware(RequestDelegate next, ILogger<ExceptionMiddleware> logger)
+    public ExceptionMiddleware(RequestDelegate next, ILogger<ExceptionMiddleware> logger, AppConfig config)
     {
         _next = next;
         _logger = logger;
+        _config = config;
     }
 
     public async Task InvokeAsync(HttpContext context)
@@ -30,7 +33,14 @@ public class ExceptionMiddleware
     {
         var requestId = context.Items["RequestId"]?.ToString() ?? "N/A";
 
-        _logger.LogError(exception, "Request {RequestId} failed: {Message}", requestId, exception.Message);
+        if (_config.Mode.DetailedLogging || _config.Mode.Environment == "Development")
+        {
+            _logger.LogError(exception, "Request {RequestId} failed: {Message}", requestId, exception.Message);
+        }
+        else
+        {
+            _logger.LogError("Request {RequestId} failed with {ExceptionType}", requestId, exception.GetType().Name);
+        }
 
         var response = context.Response;
         response.ContentType = "application/json";
@@ -45,14 +55,30 @@ public class ExceptionMiddleware
 
         response.StatusCode = statusCode;
 
-        var error = new
+        object error;
+
+        if (_config.Mode.VerboseErrors)
         {
-            statusCode,
-            errorCode,
-            message,
-            requestId,
-            timestamp = DateTime.UtcNow
-        };
+            error = new
+            {
+                statusCode,
+                errorCode,
+                message,
+                requestId,
+                timestamp = DateTime.UtcNow,
+                detail = exception.Message
+            };
+        }
+        else
+        {
+            error = new
+            {
+                statusCode,
+                errorCode,
+                message = _config.Mode.Environment == "Production" ? "An error occurred" : message,
+                requestId
+            };
+        }
 
         await response.WriteAsync(JsonSerializer.Serialize(error));
     }
