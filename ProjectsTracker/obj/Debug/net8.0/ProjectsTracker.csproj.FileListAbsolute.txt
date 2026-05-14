@@ -33,3 +33,36 @@ C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\P
 C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.genruntimeconfig.cache
 C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\ref\ProjectsTracker.dll
 C:\Users\aimazur\source\repos\ProjectsTracker\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.sourcelink.json
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.csproj.AssemblyReference.cache
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.AssemblyInfoInputs.cache
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.AssemblyInfo.cs
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.csproj.CoreCompileInputs.cache
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.sourcelink.json
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.dll
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\refint\ProjectsTracker.dll
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.pdb
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\bin\Debug\net8.0\appsettings.Development.json
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\bin\Debug\net8.0\appsettings.json
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\bin\Debug\net8.0\ProjectsTracker.exe
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\bin\Debug\net8.0\ProjectsTracker.deps.json
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\bin\Debug\net8.0\ProjectsTracker.runtimeconfig.json
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\bin\Debug\net8.0\ProjectsTracker.dll
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\bin\Debug\net8.0\ProjectsTracker.pdb
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\staticwebassets.build.json
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\staticwebassets.development.json
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\staticwebassets\msbuild.ProjectsTracker.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjectsTracker.props
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjectsTracker.props
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjectsTracker.props
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\scopedcss\bundle\ProjectsTracker.styles.css
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\Projects.8551AB73.Up2Date
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\ProjectsTracker.genruntimeconfig.cache
+D:\Study\Технологии разработки на базе фреймворков\fr4\ProjectsTracker\obj\Debug\net8.0\ref\ProjectsTracker.dll

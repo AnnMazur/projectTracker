@@ -145,5 +145,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectsTracker.Controllers.WorkflowController",
+    "Method": "ProcessEvent",
+    "RelativePath": "api/workflow/event",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ProjectsTracker.Workflow.TaskEventRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
